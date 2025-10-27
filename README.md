@@ -3,6 +3,11 @@ A Streamlit web app that predicts student's Math Scores using a trained Machine 
 Users enter details like gender, ethnicity, parental education, and reading/writing scores — the app predicts the likely math score.
 
 How to Run
+Option 1 — Run Online
+You can directly open the app here:
+👉 Live App on Streamlit Cloud (https://dsproject-6p25de7j9hlvan7nhnuupc.streamlit.app)
+
+Option 2 — Run Locally
 git clone https://github.com/SukritiBundela/dsproject.git
 cd dsproject
 python -m venv venv
