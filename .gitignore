@@ -6,8 +6,5 @@ node_modules/
 venv/
 .env
 
-linear_model.pkl
-*.pkl
-
 .DS_Store
 *.log
